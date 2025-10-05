@@ -1,0 +1,5 @@
+{
+  "name": "SceneBay",
+  "description": "A location finder that uses AI to discover places based on your specified features, location, and search radius. Results are displayed on an interactive map and a detailed list.",
+  "requestFramePermissions": []
+}
