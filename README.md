@@ -1,3 +1,6 @@
+# 🚀 [👉 CLICK HERE TO OPEN THE LIVE WEBSITE 👈](https://joseph-francis42.github.io/SceneBay/)
+
+---
 # SceneBay — AI-Powered Location Discovery
 
 **Team Members:** Joseph (Developer), Adithya (Developer), Job (Developer)
