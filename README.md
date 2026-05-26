@@ -1,4 +1,4 @@
-# 🚀 [👉 CLICK HERE TO OPEN THE LIVE WEBSITE 👈](https://joseph-francis42.github.io/SceneBay/)
+# 🚀 [👉 CLICK HERE TO OPEN THE LIVE WEBSITE 👈](https://your-project-name.vercel.app)
 
 ---
 # SceneBay — AI-Powered Location Discovery
