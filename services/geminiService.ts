@@ -1,7 +1,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import type { SearchParams, Area } from '../types';
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY as string });
+const ai = new GoogleGenAI({ apiKey: (process.env.API_KEY || (import.meta as any).env?.VITE_GEMINI_API_KEY) as string });
 
 export async function findAreas(params: SearchParams): Promise<Area[]> {
   const { location, radius, unit, desiredFeatures, crewSize } = params;
